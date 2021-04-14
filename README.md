@@ -11,6 +11,6 @@ Here are some areas important to me:
 - 🤔 I’m looking for help with Data Visualisation using JavaScript libraries and API data
 - 💬 Ask me about databases, web development
 - 📫 How to reach me: suebeale@gmail.com
-- 😄 Pronouns: ...
+- 😄
 - ⚡ Fun fact: Games for Learning
 
